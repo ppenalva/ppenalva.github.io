@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ppenalva.github.io/sitemap.xml
